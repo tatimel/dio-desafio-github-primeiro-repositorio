@@ -1,0 +1,48 @@
+# Dicas Importantes
+
+Para baixar o Git acesse :
+
+https://git-scm.com/downloads
+
+### Comandos Úteis:
+
+ - ***git status***
+
+   Permite verificar o estado dos arquivos.
+
+ - ***git init***
+
+   Para inicializar o monitoramento de um projeto existente com GIT, no diretório do projeto, digite o comando "git init".
+
+ - ***git add***
+
+   Para controlar o versionamento de novos arquivos em um diretório local. 
+
+   "." considera apenas os modificados 
+
+   "*" considera todos os arquivos.
+
+ - ***git commit***
+
+   Para realizar um commit local use: 
+
+   *git commit -m "mensagem"*
+
+ - ***git push***
+
+   Para realizar a transferência de um commit de um repositótrio local para o remoto, use: 
+
+   *git push [nome do repositório remoto] [nome do repositório local]*
+
+   
+
+   Para mais informações acesse: https://comandosgit.github.io/
+
+   
+
+   
+
+   
+
+ 
+
